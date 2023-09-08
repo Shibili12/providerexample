@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:providerexample/page2.dart';
-import 'package:providerexample/provider/providerDemo.dart';
+import 'package:providerexample/provider%20example%201/page2.dart';
+import 'package:providerexample/provider%20example%201/provider/providerDemo.dart';
 
 class Page1 extends StatelessWidget {
   const Page1({super.key});
